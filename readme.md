@@ -1,6 +1,6 @@
 # Whack A Mole
 
-[Click Here](https://)
+[Click Here](https://tajpuriya27.github.io/Whack-a-mole/) to view the live page. Hosted on GitHub pages.
 
 ## Instruction to Users
 
@@ -16,6 +16,9 @@ Whack A Mole v1.0
 
 <details>
 <summary>Current Issues</summary>
-    - Need to check CSS; it shows scroll bar even if used in full screen.
-    - Try to build better logic to randomized the whack in hole.
+    
+    Need to check CSS; it shows scroll bar even if used in full screen.
+
+    Try to build better logic to randomized the whack in hole.
+
 </details>
